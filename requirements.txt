@@ -1,7 +1,0 @@
-###### Requirements with Version Specifiers ######
-numpy >= 1.10.2
-scipy >= 0.19
-matplotlib >= 2.0
-scikit-learn >= 0.17.1
-
-# opencv >= 3.0
